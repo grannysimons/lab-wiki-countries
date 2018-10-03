@@ -1,0 +1,22 @@
+.countryDetail
+{
+  text-align: left;
+  padding: 0;
+}
+.countryDetail .capital,
+.countryDetail .area,
+.countryDetail .borders
+{
+  padding: 20px;
+  border-top: 1px solid rgba(200,200,200,0.4);
+}
+.countryDetail .row,
+div.capital.row,
+div.area.row,
+div.borders.row
+{
+  padding-right: 0;
+  padding-left: 0;
+  margin-right: 0;
+  margin-left: 0;
+}

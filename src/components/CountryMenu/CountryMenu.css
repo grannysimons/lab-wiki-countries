@@ -1,0 +1,18 @@
+.listMenu li
+{
+  list-style-type: none;
+  text-align: left;
+  border: 1px solid rgba(200,200,200,0.4);
+}
+.listMenu li:hover
+{
+  background-color: rgba(200,200,200,0.3)
+}
+.listMenu li a
+{
+  padding: 15px;
+  display: block;
+  width: 100%;
+  height: 100%;
+  text-decoration: none;
+}

@@ -22,6 +22,29 @@
   color: #61dafb;
 }
 
+.App .title
+{
+  background-color: cadetblue;
+  padding: 20px;
+  position: fixed;
+  top:0;
+  z-index: 10;
+  color: white;
+  font-weight: bolder;
+}
+
+.App .countryMenu
+{
+  margin-top: 80px;
+}
+.App .countryDetail
+{
+  margin-top: 40px;
+  position: fixed;
+  left: 35%;
+  top: 40px;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
